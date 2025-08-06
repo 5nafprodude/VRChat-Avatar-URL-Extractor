@@ -246,7 +246,7 @@ ttk.Button(settings_frame, text="Toggle Dark/Light Mode", command=toggle_theme).
 ttk.Checkbutton(settings_frame, text="Auto-copy URL to clipboard", variable=auto_copy_var).grid(row=3, column=0, columnspan=2, pady=5, sticky="ew")
 back_button = ttk.Button(settings_frame, text="Back", command=show_main_ui)
 back_button.grid(row=4, column=0, columnspan=2, pady=(20, 0), sticky="ew")
-credits_label = ttk.Label(settings_frame, text="Made by Naf and Admin", font=("Segoe UI", 9, "italic"))
+credits_label = ttk.Label(settings_frame, text="Made by The Hidden Hand", font=("Segoe UI", 9, "italic"))
 credits_label.grid(row=5, column=0, columnspan=2, pady=(20, 0))
 apply_theme()
 add_placeholder()
