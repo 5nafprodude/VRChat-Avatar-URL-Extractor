@@ -41,7 +41,7 @@ The application is designed to be intuitive and offers two primary ways to find 
 Once the application window appears, you can use it in one of two ways:
 
 1.  **Drag and Drop (Recommended):**
-    * Locate the VRChat avatar file you want to use. This file typically has an ID in its name, such as `avtr_12345678-abcd-efgh-ijkl-mnopqrstuvwx.unity3d`.
+    * Locate the VRChat avatar file you want to use. This file typically has an ID in its name, such as `avtr_12345678-xxxx-xxxx-xxxx-xxxxxxxxxxxx.unity3d`.
     * Drag the file from your file explorer directly onto the application window.
     * The application will instantly extract the avatar ID and display the full VRChat URL in the text box.
 
